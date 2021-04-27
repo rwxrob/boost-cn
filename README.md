@@ -18,6 +18,8 @@ code and works well in source management systems like Git and GitHub.
 changes. A *Star* would be nice as well. If you want to contribute open
 an *Issue* to discuss it.
 
+> For raw content development see the [Zettelkasten register](/reg/) instead.
+
 ## Suggested Learning Plan
 
 * *Complete the Beginner Boost*
